@@ -1,0 +1,7 @@
+C:\Users\huang\source\repos\githubtestNew\githubtestNew\bin\Debug\githubtestNew.exe.config
+C:\Users\huang\source\repos\githubtestNew\githubtestNew\bin\Debug\githubtestNew.exe
+C:\Users\huang\source\repos\githubtestNew\githubtestNew\bin\Debug\githubtestNew.pdb
+C:\Users\huang\source\repos\githubtestNew\githubtestNew\obj\Debug\githubtestNew.csprojAssemblyReference.cache
+C:\Users\huang\source\repos\githubtestNew\githubtestNew\obj\Debug\githubtestNew.csproj.CoreCompileInputs.cache
+C:\Users\huang\source\repos\githubtestNew\githubtestNew\obj\Debug\githubtestNew.exe
+C:\Users\huang\source\repos\githubtestNew\githubtestNew\obj\Debug\githubtestNew.pdb
