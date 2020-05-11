@@ -11,6 +11,7 @@ namespace githubtestNew
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World - New Project");
+            Console.WriteLine("Hello World - New Project2");
         }
     }
 }
